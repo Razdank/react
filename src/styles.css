@@ -1,0 +1,64 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: #fffacd;
+  color: #524401;
+}
+p {
+  text-indent: 20px;
+}
+header {
+  border: solid #524401 1px;
+  border-radius: 12px 12px 0 0;
+  margin-bottom: -1px;
+}
+footer {
+  margin-top: -1px;
+  border: solid #524401 1px;
+  text-align: center;
+  border-radius: 0 0 12px 12px;
+}
+a {
+  text-decoration: none;
+  color: #524401;
+}
+img {
+  height: 400px;
+  width: 400px;
+  border: solid #524401 4px;
+}
+.menu {
+  display: inline-block;
+  border: solid #524401 1px;
+  margin: 2px;
+}
+.men0 {
+  display: inline-block;
+  margin: 2px;
+  padding: 2px;
+}
+.men1 {
+  display: inline-block;
+  border: solid #524401 1px;
+  margin: 2px;
+  padding: 2px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+}
+.men1:hover {
+  background-color: #f0e68c;
+}
+.men2 {
+  background-color: #BDB76B;
+  color: black;
+}
+.main {
+  border: solid #524401 1px;
+}
+.arrow {
+  height: 12px;
+  width: 12px;
+  border: none;
+}
